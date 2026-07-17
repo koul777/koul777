@@ -30,7 +30,7 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
 
 ## Featured Projects
 
-| Project | What it solves |
+| 프로젝트 | 해결하는 문제 |
 |---|---|
 | [Public-Regulation-MCP-Builder](https://github.com/koul777/Public-Regulation-MCP-Builder) | 공공기관 내부 규정을 전처리하고 승인된 데이터만 로컬 RAG·MCP로 연결합니다. |
 | [VHLookup](https://github.com/koul777/VHLookup) | 반복되는 공공행정 엑셀 업무를 로컬에서 자동화합니다. |
