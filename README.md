@@ -67,7 +67,7 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=koul777&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koul777&theme=github)
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koul777&theme=github-compact&hide_border=true&area=true)
 
