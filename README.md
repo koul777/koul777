@@ -4,11 +4,11 @@
 
 <br>
 
-# Building practical AI tools for public-sector work
+# 일하는 방식의 혁신을 추구합니다
 
-### Public HR × AI Transformation × Local-first Software
+### People Analytics × Change Management × Public Administration
 
-반복되는 행정과 HR 업무를 더 단순하고 신뢰할 수 있는 도구로 바꿉니다.
+People Analytics와 AI로 문제를 발견하고, Change Management를 통해 실제 변화로 연결합니다.
 
 [![Email](https://img.shields.io/badge/기고·강연_문의-kyci%40naver.com-0F766E?style=for-the-badge)](mailto:kyci@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-koul777-181717?style=for-the-badge&logo=github)](https://github.com/koul777)

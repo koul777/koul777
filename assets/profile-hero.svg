@@ -1,90 +1,99 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Public HR and AI Transformation</title>
-  <desc id="desc">A visual map connecting public HR, policy, data, AI, and organizational change.</desc>
+  <title id="title">People make transformation real</title>
+  <desc id="desc">A warm editorial illustration showing people, policy, data, and AI coming together to create better work.</desc>
   <defs>
-    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="340" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#071A25"/>
-      <stop offset="0.52" stop-color="#0B3340"/>
-      <stop offset="1" stop-color="#0F5B5B"/>
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBF8F1"/>
+      <stop offset="1" stop-color="#EEE8DB"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(905 178) rotate(90) scale(170 230)">
-      <stop stop-color="#5EEAD4" stop-opacity="0.23"/>
-      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="accent" x1="690" y1="80" x2="1090" y2="286" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#99F6E4"/>
-      <stop offset="1" stop-color="#38BDF8"/>
+    <linearGradient id="flow" x1="690" y1="260" x2="1110" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A7F78"/>
+      <stop offset="0.55" stop-color="#D97745"/>
+      <stop offset="1" stop-color="#E0A23A"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#CFFAFE" stroke-opacity="0.055"/>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#17324D" fill-opacity="0.055"/>
     </pattern>
-    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#020617" flood-opacity="0.45"/>
+    <filter id="softShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#5F5142" flood-opacity="0.14"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
-  <path d="M0 302C210 248 332 344 544 288C706 246 842 164 1200 230V360H0V302Z" fill="#14B8A6" fill-opacity="0.055"/>
+  <rect width="1200" height="360" rx="28" fill="url(#paper)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#dots)"/>
+  <path d="M0 327C215 283 353 344 545 314C765 279 947 165 1200 183V360H0V327Z" fill="#2A7F78" fill-opacity="0.055"/>
 
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="66" y="92" fill="#5EEAD4" font-size="16" font-weight="700" letter-spacing="3">PUBLIC HR × AI TRANSFORMATION</text>
-    <text x="66" y="151" fill="#F8FAFC" font-size="42" font-weight="750">Turning real work into</text>
-    <text x="66" y="203" fill="#F8FAFC" font-size="42" font-weight="750">reliable tools.</text>
-    <text x="68" y="244" fill="#BAE6FD" font-size="18">Policy-informed · Human-centered · Local-first</text>
-
-    <g font-size="13" font-weight="650" letter-spacing="0.7">
-      <rect x="66" y="278" width="142" height="34" rx="17" fill="#0F766E" fill-opacity="0.65" stroke="#5EEAD4" stroke-opacity="0.35"/>
-      <text x="137" y="300" text-anchor="middle" fill="#CCFBF1">HR ANALYTICS</text>
-      <rect x="220" y="278" width="178" height="34" rx="17" fill="#075985" fill-opacity="0.58" stroke="#7DD3FC" stroke-opacity="0.35"/>
-      <text x="309" y="300" text-anchor="middle" fill="#E0F2FE">CHANGE MANAGEMENT</text>
-      <rect x="410" y="278" width="136" height="34" rx="17" fill="#164E63" fill-opacity="0.62" stroke="#67E8F9" stroke-opacity="0.35"/>
-      <text x="478" y="300" text-anchor="middle" fill="#CFFAFE">RAG · MCP</text>
-    </g>
+    <text x="66" y="80" fill="#2A7F78" font-size="15" font-weight="750" letter-spacing="2.4">PEOPLE ANALYTICS · CHANGE MANAGEMENT · PUBLIC ADMINISTRATION</text>
+    <text x="66" y="145" fill="#17324D" font-size="44" font-weight="760">Rethinking how</text>
+    <text x="66" y="198" fill="#17324D" font-size="44" font-weight="760">work gets done.</text>
+    <rect x="66" y="229" width="56" height="4" rx="2" fill="#D97745"/>
+    <text x="66" y="270" fill="#4D5E67" font-size="19">People, evidence, and technology</text>
+    <text x="66" y="298" fill="#4D5E67" font-size="19">moving together toward better work.</text>
   </g>
 
-  <g filter="url(#shadow)" font-family="Segoe UI, Arial, sans-serif">
-    <path d="M879 178L757 93M879 178L1016 88M879 178L1035 253M879 178L746 267" stroke="url(#accent)" stroke-width="2" stroke-dasharray="7 9" opacity="0.65">
-      <animate attributeName="stroke-dashoffset" from="0" to="-32" dur="3s" repeatCount="indefinite"/>
-    </path>
+  <g transform="translate(630 30)" font-family="Segoe UI, Arial, sans-serif">
+    <path d="M34 243C122 290 202 257 257 184C311 112 385 87 499 122" stroke="#17324D" stroke-opacity="0.16" stroke-width="18" stroke-linecap="round"/>
+    <path id="journey" d="M34 243C122 290 202 257 257 184C311 112 385 87 499 122" stroke="url(#flow)" stroke-width="4" stroke-linecap="round" stroke-dasharray="3 13"/>
 
-    <g>
-      <circle cx="879" cy="178" r="64" fill="#083344" stroke="#5EEAD4" stroke-width="2"/>
-      <circle cx="879" cy="178" r="75" stroke="#5EEAD4" stroke-opacity="0.18">
-        <animate attributeName="r" values="69;80;69" dur="3.6s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.5;0.05;0.5" dur="3.6s" repeatCount="indefinite"/>
+    <g opacity="0.95">
+      <circle cx="55" cy="220" r="14" fill="#2A7F78"/>
+      <path d="M31 260C31 242 42 232 55 232C68 232 79 242 79 260" fill="#2A7F78"/>
+      <circle cx="96" cy="247" r="11" fill="#D97745"/>
+      <path d="M77 278C77 264 85 256 96 256C107 256 115 264 115 278" fill="#D97745"/>
+      <circle cx="105" cy="198" r="10" fill="#E0A23A"/>
+      <path d="M88 227C88 214 95 207 105 207C115 207 122 214 122 227" fill="#E0A23A"/>
+      <circle cx="25" cy="270" r="8" fill="#17324D" fill-opacity="0.72"/>
+      <path d="M11 293C11 283 17 278 25 278C33 278 39 283 39 293" fill="#17324D" fill-opacity="0.72"/>
+    </g>
+
+    <g filter="url(#softShadow)">
+      <circle cx="281" cy="171" r="78" fill="#FFFDF8" stroke="#D97745" stroke-width="3"/>
+      <circle cx="281" cy="171" r="66" stroke="#D97745" stroke-opacity="0.2" stroke-width="2">
+        <animate attributeName="r" values="63;70;63" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.35;0.08;0.35" dur="4s" repeatCount="indefinite"/>
       </circle>
-      <text x="879" y="170" text-anchor="middle" fill="#99F6E4" font-size="15" font-weight="700" letter-spacing="2">PRACTICAL</text>
-      <text x="879" y="198" text-anchor="middle" fill="#F8FAFC" font-size="25" font-weight="750">AI</text>
+      <text x="281" y="157" text-anchor="middle" fill="#D97745" font-size="13" font-weight="750" letter-spacing="1.8">BETTER</text>
+      <text x="281" y="187" text-anchor="middle" fill="#17324D" font-size="27" font-weight="780">WORK</text>
     </g>
 
-    <g font-size="14" font-weight="700" letter-spacing="1">
-      <rect x="694" y="65" width="126" height="56" rx="16" fill="#0F3F4B" stroke="#5EEAD4" stroke-opacity="0.6"/>
-      <circle cx="716" cy="93" r="6" fill="#5EEAD4"/>
-      <text x="740" y="98" fill="#E6FFFB">PUBLIC HR</text>
-
-      <rect x="976" y="60" width="128" height="56" rx="16" fill="#103E57" stroke="#7DD3FC" stroke-opacity="0.6"/>
-      <circle cx="998" cy="88" r="6" fill="#7DD3FC"/>
-      <text x="1022" y="93" fill="#E0F2FE">POLICY</text>
-
-      <rect x="1000" y="225" width="126" height="56" rx="16" fill="#103E57" stroke="#38BDF8" stroke-opacity="0.6"/>
-      <circle cx="1022" cy="253" r="6" fill="#38BDF8"/>
-      <text x="1046" y="258" fill="#E0F2FE">DATA</text>
-
-      <rect x="675" y="239" width="142" height="56" rx="16" fill="#0F3F4B" stroke="#2DD4BF" stroke-opacity="0.6"/>
-      <circle cx="697" cy="267" r="6" fill="#2DD4BF"/>
-      <text x="721" y="272" fill="#CCFBF1">CHANGE</text>
+    <g font-size="12" font-weight="750" letter-spacing="0.8">
+      <g transform="translate(179 48)">
+        <rect width="90" height="38" rx="19" fill="#E0F0ED" stroke="#2A7F78" stroke-opacity="0.45"/>
+        <circle cx="20" cy="19" r="5" fill="#2A7F78"/>
+        <text x="34" y="23" fill="#245D59">PEOPLE</text>
+      </g>
+      <g transform="translate(345 34)">
+        <rect width="88" height="38" rx="19" fill="#E8EDF1" stroke="#17324D" stroke-opacity="0.35"/>
+        <circle cx="20" cy="19" r="5" fill="#17324D"/>
+        <text x="34" y="23" fill="#17324D">POLICY</text>
+      </g>
+      <g transform="translate(416 207)">
+        <rect width="78" height="38" rx="19" fill="#F7E9DE" stroke="#D97745" stroke-opacity="0.45"/>
+        <circle cx="20" cy="19" r="5" fill="#D97745"/>
+        <text x="34" y="23" fill="#A84F2A">DATA</text>
+      </g>
+      <g transform="translate(342 267)">
+        <rect width="66" height="38" rx="19" fill="#F8EDCF" stroke="#E0A23A" stroke-opacity="0.55"/>
+        <circle cx="20" cy="19" r="5" fill="#E0A23A"/>
+        <text x="34" y="23" fill="#8A641F">AI</text>
+      </g>
     </g>
+
+    <circle r="7" fill="#2A7F78">
+      <animateMotion dur="5s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#journey"/>
+      </animateMotion>
+    </circle>
+    <circle r="5" fill="#D97745">
+      <animateMotion dur="5s" begin="-1.8s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#journey"/>
+      </animateMotion>
+    </circle>
+    <circle r="4" fill="#E0A23A">
+      <animateMotion dur="5s" begin="-3.4s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#journey"/>
+      </animateMotion>
+    </circle>
   </g>
-
-  <circle cx="1110" cy="42" r="3" fill="#BAE6FD">
-    <animate attributeName="opacity" values="0.15;1;0.15" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1140" cy="72" r="2" fill="#5EEAD4">
-    <animate attributeName="opacity" values="1;0.2;1" dur="3.4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="640" cy="52" r="2.5" fill="#7DD3FC">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
 </svg>
