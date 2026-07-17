@@ -11,6 +11,7 @@
 People Analytics와 AI로 문제를 발견하고, Change Management를 통해 실제 변화로 연결합니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-koul777-181717?style=for-the-badge&logo=github)](https://github.com/koul777)
+[![Brunch](https://img.shields.io/badge/Brunch-HRKIM-FF5A00?style=for-the-badge)](https://brunch.co.kr/@publichr)
 
 </div>
 
