@@ -41,7 +41,7 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
 
 ## Currently Exploring
 
-- 승인 이력과 출처가 명확한 공공기관 규정 RAG·MCP
+- 승인된 규정과 근거 출처를 바탕으로 동작하는 공공기관 RAG·MCP
 - NCS 기반 구조화면접 질문 생성
 - 공공기관 총인건비 인상률 시뮬레이션
 - 생성형 AI를 활용한 HR 업무와 조직 변화
@@ -68,9 +68,9 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
 
 <div align="center">
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koul777&theme=github)
+![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koul777&theme=solarized)
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koul777&theme=github-compact&hide_border=true&area=true)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koul777&bg_color=FBF8F1&color=17324D&line=2A7F78&point=D97745&area_color=2A7F78&area=true&hide_border=true&custom_title=Contribution%20Activity)
 
 </div>
 
