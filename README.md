@@ -35,7 +35,7 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
 |---|---|
 | [Public-Regulation-MCP-Builder](https://github.com/koul777/Public-Regulation-MCP-Builder) | 공공기관 내부 규정을 구조화하고, 검토·승인된 데이터만 로컬 RAG·MCP에 연결합니다. |
 | [VHLookup](https://github.com/koul777/VHLookup) | 공공행정 실무의 반복적인 엑셀 작업을 로컬 환경에서 자동화합니다. |
-| [NCS_Interview](https://github.com/koul777/NCS_Interview) | AI와 NCS를 활용해 구조화면접 질문을 추천합니다. |
+| [NCS_Interview](https://github.com/koul777/NCS_Interview) | NCS 직무역량과 AI를 활용해 구조화면접 질문 설계를 지원합니다. |
 | [attendance-checker](https://github.com/koul777/attendance-checker) | 엑셀 기반 근태 데이터의 이상 징후를 빠르게 점검합니다. |
 | [clickguide-local-private](https://github.com/koul777/clickguide-local-private) | 복잡한 업무 절차를 로컬 단계별 가이드로 전환합니다. |
 
@@ -68,9 +68,7 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
 
 <div align="center">
 
-![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koul777&theme=solarized)
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koul777&bg_color=FBF8F1&color=17324D&line=2A7F78&point=D97745&area_color=2A7F78&area=true&hide_border=true&custom_title=Contribution%20Activity)
+![3D contribution calendar](./profile-3d-contrib/profile-season-animate.svg)
 
 </div>
 
