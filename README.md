@@ -72,6 +72,12 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
 
 </div>
 
+## Acknowledgements
+
+- [NCScope](https://github.com/koul777/NCScope)는 직무기술서·공고문 파싱에 [Kordoc](https://github.com/chrisryugj/kordoc)을 사용합니다.
+- [Public-Regulation-MCP-Builder](https://github.com/koul777/Public-Regulation-MCP-Builder)는 HWP 표 구조 보강과 전처리 검증에 Kordoc을 선택적으로 활용합니다.
+- Kordoc은 별도 MIT 라이선스 오픈소스 프로젝트이며, 각 프로젝트의 제3자 고지와 라이선스 안내를 함께 확인해야 합니다.
+
 ---
 
 <div align="center">
