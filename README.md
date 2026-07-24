@@ -34,6 +34,7 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
 | 프로젝트 | 해결하는 문제 |
 |---|---|
 | [NCScope](https://github.com/koul777/NCScope) | 공공기관 공고문과 직무기술서를 탑재하면 NCS 세분류 확인, 공식 KSA 조회, 구조화 면접 질문 생성을 한 흐름으로 연결합니다. |
+| [AI Survey Insight](https://github.com/koul777/AI-Survey-Insight) | 한국어 설문 자유응답을 토픽모델링, 감정분석, 대시보드, 보고서 export로 빠르게 분석합니다. |
 | [Public-Regulation-MCP-Builder](https://github.com/koul777/Public-Regulation-MCP-Builder) | 공공기관 내부 규정을 구조화하고, 검토·승인된 데이터만 로컬 RAG·MCP에 연결합니다. |
 | [VHLookup](https://github.com/koul777/VHLookup) | 공공행정 실무의 반복적인 엑셀 작업을 로컬 환경에서 자동화합니다. |
 | [attendance-checker](https://github.com/koul777/attendance-checker) | 엑셀 근태 데이터를 로컬에서 분석해 이상 징후를 빠르게 식별합니다. |
