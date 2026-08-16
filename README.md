@@ -34,6 +34,7 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
 | 프로젝트 | 해결하는 문제 |
 |---|---|
 | [NCScope](https://github.com/koul777/NCScope) | 공공기관 공고문과 직무기술서를 탑재하면 NCS 세분류 확인, 공식 KSA 조회, 구조화 면접 질문 생성을 한 흐름으로 연결합니다. |
+| [NCS_JD](https://github.com/koul777/NCS_JD) | 채용 공고문을 올리면 NCS 세분류·능력단위·KSA 근거를 연결해 검토용 직무기술서 HWPX 초안을 로컬에서 생성합니다. 선택 시 공식 CLI 에이전트가 NCS DB를 직접 반복 조회해 정밀 작성하며, API 키 없이 구독 로그인만 사용합니다. |
 | [AI Survey Insight](https://github.com/koul777/AI-Survey-Insight) | 한국어 설문 자유응답을 토픽모델링, 감정분석, 대시보드, 보고서 export로 빠르게 분석합니다. |
 | [SlideForge](https://github.com/koul777/slideforge) | 로컬에서 AI 프레젠테이션 초안을 만들고, 브라우저 편집 후 PPTX·PDF로 내보내는 제작 도구입니다. |
 | [Public-Regulation-MCP-Builder](https://github.com/koul777/Public-Regulation-MCP-Builder) | 공공기관 내부 규정을 구조화하고, 검토·승인된 데이터만 로컬 RAG·MCP에 연결합니다. |
