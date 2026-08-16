@@ -33,7 +33,7 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
 
 | 프로젝트 | 해결하는 문제 |
 |---|---|
-| [HRMCP](https://github.com/koul777/NCS_MCP) | NCS 지식그래프를 MCP로 노출해 ChatGPT·Claude에 HTTPS URL 한 줄로 연결합니다. 채용 공고문을 NCS 근거로 교차 확인해 직무기술서(채용 직무 설명자료)를 작성하고, NCS 구조 검색과 교육훈련 추천을 제공합니다. Vercel 서버리스로 배포되며 서빙 DB는 GitHub Release로 관리합니다. |
+| [HRMCP](https://github.com/koul777/HRMCP) | NCS 지식그래프를 MCP로 노출해 ChatGPT·Claude에 HTTPS URL 한 줄로 연결합니다. 채용 공고문을 NCS 근거로 교차 확인해 직무기술서(채용 직무 설명자료)를 작성하고, NCS 구조 검색과 교육훈련 추천을 제공합니다. Vercel 서버리스로 배포되며 서빙 DB는 GitHub Release로 관리합니다. |
 | [NCScope](https://github.com/koul777/NCScope) | 공공기관 공고문과 직무기술서를 탑재하면 NCS 세분류 확인, 공식 KSA 조회, 구조화 면접 질문 생성을 한 흐름으로 연결합니다. |
 | [NCS_JD](https://github.com/koul777/NCS_JD) | 채용 공고문을 올리면 NCS 세분류·능력단위·KSA 근거를 연결해 검토용 직무기술서 HWPX 초안을 로컬에서 생성합니다. 선택 시 공식 CLI 에이전트가 NCS DB를 직접 반복 조회해 정밀 작성하며, API 키 없이 구독 로그인만 사용합니다. |
 | [AI Survey Insight](https://github.com/koul777/AI-Survey-Insight) | 한국어 설문 자유응답을 토픽모델링, 감정분석, 대시보드, 보고서 export로 빠르게 분석합니다. |
