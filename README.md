@@ -79,6 +79,8 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
       <a href="https://github.com/koul777/VHLookup"><strong>VHLookup</strong></a>
       <p>공공행정 실무에서 반복되는 엑셀 조회·대조 작업을 로컬 환경에서 빠르고 재현 가능하게 자동화합니다.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <sub>ATTENDANCE · ANOMALY SIGNAL · LOCAL DATA</sub><br><br>
       <a href="https://github.com/koul777/attendance-checker"><strong>Attendance Checker</strong></a>
