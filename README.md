@@ -70,17 +70,10 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>GENERATIVE AI · PRESENTATION · LOCAL APP</sub><br><br>
-      <a href="https://github.com/koul777/slideforge"><strong>SlideForge</strong></a>
-      <p>주제나 원문에서 슬라이드 초안을 만들고, 브라우저 편집을 거쳐 PPTX 또는 PDF로 내보내는 로컬 AI 제작 도구입니다.</p>
-    </td>
-    <td width="50%" valign="top">
       <sub>NLP · SURVEY · DECISION SUPPORT</sub><br><br>
       <a href="https://github.com/koul777/AI-Survey-Insight"><strong>AI Survey Insight</strong></a>
       <p>한국어 설문 자유응답을 토픽·감정·핵심 문장으로 분석하고, 대시보드와 보고서까지 빠르게 생성합니다.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <sub>EXCEL · PUBLIC ADMINISTRATION · AUTOMATION</sub><br><br>
       <a href="https://github.com/koul777/VHLookup"><strong>VHLookup</strong></a>
@@ -91,13 +84,13 @@ Local-first AI  민감한 데이터를 위한 로컬 자동화 · RAG · MCP
       <a href="https://github.com/koul777/attendance-checker"><strong>Attendance Checker</strong></a>
       <p>엑셀 근태 데이터를 외부로 보내지 않고 분석해, 담당자가 먼저 살펴볼 이상 징후를 빠르게 식별합니다.</p>
     </td>
+    <td width="50%" valign="top">
+      <sub>LOCAL-FIRST · PROCESS GUIDE · OPERATIONS</sub><br><br>
+      <a href="https://github.com/koul777/clickguide-local-private"><strong>ClickGuide Local</strong></a>
+      <p>복잡한 업무 절차를 외부 서비스 없이 따라갈 수 있는 로컬 단계별 가이드로 전환합니다.</p>
+    </td>
   </tr>
 </table>
-
-<p align="center">
-  <sub>ANOTHER WORKING TOOL</sub><br>
-  <a href="https://github.com/koul777/clickguide-local-private"><strong>ClickGuide Local</strong></a> — 복잡한 업무 절차를 로컬 단계별 가이드로 전환합니다.
-</p>
 
 ## Now / Next
 
