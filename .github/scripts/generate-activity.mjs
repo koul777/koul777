@@ -349,7 +349,7 @@ function renderSvg(data) {
   <text x="994" y="225" class="small">QUIET</text>
   ${legend}
   <text x="1127" y="225" class="small">DEEP</text>
-  ${metricCards}
+${metricCards}
 </svg>
 `;
 }
